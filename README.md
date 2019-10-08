@@ -14,6 +14,12 @@ node -v
 
 npm -v
 
+#### Editor de código
+
+Tener cualquier editor de código basta, en este caso yo usaré Visual Studio Code
+
+https://code.visualstudio.com/
+
 #### Plantilla del proyecto
 
 Los archivos de este proyecto, los cuales puedes descargar por medio de la CMD o terminal, o con darle clic al boton verde de la derecha.
